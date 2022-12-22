@@ -3,6 +3,7 @@ Point cloud registration and classification for scene construction
 
 ### ICP speedup experiments
 run ICP notebook inside isp folder to get the plot for timing
+
 run ICP_Parallel inside isp folder to see our attempt to use cupy
 
 ### CNN classifier speedup experiments
